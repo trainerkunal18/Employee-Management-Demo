@@ -36,4 +36,4 @@ python -m unittest -v
 
 ## Limitations
 This is a teaching project, not production HR software. There is no database, login, web interface or personal-data protection layer. Always review AI-generated changes and run tests.
-This project is used to demonstrate Git and CI/CD. 
+This project is used to demonstrate Git and CI.
